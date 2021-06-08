@@ -3,6 +3,9 @@ title: "Working With Tanay Pratap"
 date: "2021-06-08"
 ---
 
+I along with 15 more folks are lately working with **Tanay Pratap** on 3 Projects.
+Its more like an internship.
+
 I consider myself fortunate, to be working with **Tanay Pratap** at an early stage of my life.
 These learnings will definitely help me ace in my career.
 
