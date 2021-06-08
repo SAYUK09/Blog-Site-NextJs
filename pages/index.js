@@ -22,11 +22,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi there 👋, Hey, I am Sayuri Hi, I am Sayuri a young 18 years old
-          girl on a journey to enchance as a Fullstack Web Developer. I code in
-          HTML, CSS, Javascript and React. <br />I love communicating, making
-          new connections and discussing about ideas, projects and startup.{" "}
-          <br />
+          Hi there 👋, This is Sayuri a young 18 years old girl on a journey to
+          enchance as a Fullstack Web Developer. I primarily code in HTML, CSS,
+          Javascript and React. <br />I love communicating, making new
+          connections and discussing about ideas, projects and startup. <br />
           Also I document my journey on some social networking sites
         </p>
       </section>
