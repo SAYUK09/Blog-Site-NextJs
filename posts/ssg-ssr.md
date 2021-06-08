@@ -1,19 +1,134 @@
 ---
-title: "When to Use Static Generation v.s. Server-side Rendering"
-date: "2020-01-02"
+title: "Introduction to Functional Programming"
+date: "2021-02-24"
 ---
 
-We recommend using **Static Generation** (with and without data) whenever possible because your page can be built once and served by CDN, which makes it much faster than having a server render the page on every request.
+[Read on Hasnode](https://www.google.comhttps://sayurikamble.hashnode.dev/introduction-to-functional-programming)
 
-You can use Static Generation for many types of pages, including:
+In Functional Programing, we want express our whole program in terms of functions.
+Functional Programing is Declarative. Which means we focus more on **what to do** instead of **How to do**
 
-- Marketing pages
-- Blog posts
-- E-commerce product listings
-- Help and documentation
+First lets understand why Functional Programming is so important.
+Functional Programming enables us to
 
-You should ask yourself: "Can I pre-render this page **ahead** of a user's request?" If the answer is yes, then you should choose Static Generation.
+- Write re-useable code.
+- Debug easily.
+- Read better.
 
-On the other hand, Static Generation is **not** a good idea if you cannot pre-render a page ahead of a user's request. Maybe your page shows frequently updated data, and the page content changes on every request.
+> Functions are 1st Class Citizens
+> because functions can be :
 
-In that case, you can use **Server-Side Rendering**. It will be slower, but the pre-rendered page will always be up-to-date. Or you can skip pre-rendering and use client-side JavaScript to populate data.
+- Assigned to variables.
+- Can be added to objects and arrays as well .
+- Sent to other functions as a argument.
+- Can be Returned from other functions.
+
+Let's get right into it.
+
+**Non Functional Way**
+
+```let name = "Sayuri" ;
+let message = "Hey, fellow devs, I am " ;
+console.log(message + name)
+
+---> Hey, fellow devs, I am Sayuri
+```
+
+**Functional Way**
+
+```
+function message(name) {
+    return "Hey, fellow devs, I am " + name ;
+}
+
+console.log(message("Sayuri")) ;
+
+---> Hey, fellow devs, I am Sayuri
+```
+
+### --> Pure Functions
+
+> A Pure Function is a function which,
+> Given the same input, will always return the same output.
+
+A Pure Function :
+
+- Takes in at least 1 parameter.
+- Return Something (A value or a function).
+- Does not mutates any arguments.
+
+Not Pure
+
+```
+let name = "Sayuri" ;
+
+function message(){
+    console.log("Hey, fellow devs, I am " + name )
+}
+```
+
+The above code is not pure because
+
+- --> It is not taking **name** as an parameter.
+- --> It's dealing with something in the global scope.
+- --> Also it not having a **return** value.
+
+Pure Functions have no _side effects_ which means it cannot alter anything outside the function.
+
+**Pure Function**
+
+```
+function message(name) {
+   return "Hey, fellow devs, I am " + name
+}
+```
+
+### Higher Order Function
+
+> A higher order function is a function that takes a function as an argument, or returns a function or does both.
+
+```
+const greet = function takeName (name){
+    return function message(msg){
+        return msg  + name
+    }
+}
+
+greet("Sayuri ")("Hey, fellow devs, I am ")
+
+--> Hey, fellow devs, I am Sayuri
+```
+
+### Immutable Code
+
+Immutability means can't be changed.
+
+**Mutation --> (Bad)**
+
+```
+const code= [ "Javascript", "Python", "React" ]
+code[ 1 ] = "Node"
+console.log(code)
+
+--> [ "Javascript", "Node", "React" ]
+```
+
+**Immutation**
+
+```const code = [ "Javascript", "Python", "React" ]
+const code2 = code.map(lang=> {
+  if(lang=== 'Python') {
+    lang= 'Node';
+  }
+  return lang;
+});
+
+console.log(code2)
+
+--> [ "Javascript", "Node", "React" ]
+```
+
+Last but not the Least
+Do not Iterate using for or while/loops --> Use Map, Reduce, Filter etc.
+
+Let me your thoughts.
