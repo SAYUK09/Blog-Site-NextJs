@@ -25,6 +25,7 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
+
       <header className={styles.header}>
         {home ? (
           <>
@@ -68,6 +69,9 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
+      <footer>
+        <h3> LALALALALALAL </h3>
+      </footer>
     </div>
   );
 }

@@ -13,3 +13,8 @@
 .backToHome {
   margin: 3rem 0 0;
 }
+
+.lightMode {
+  background-color: whitesmoke;
+  color: #333;
+}
