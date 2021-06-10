@@ -69,9 +69,6 @@ export default function Layout({ children, home }) {
           </Link>
         </div>
       )}
-      <footer>
-        <h3> LALALALALALAL </h3>
-      </footer>
     </div>
   );
 }

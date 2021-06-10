@@ -16,15 +16,12 @@ And more or less failing now, will help me conquer in the near future.
 
 ## Here's how its going !
 
+<!-- 8 June to 10 June (2 day deadline) -->
+
+`8 Jun 2021`
+
 Just got started with **NextJs**. Learnt the basics of NextJs while building this simple blog site.
 The [Vercel Tutorial Docs](https://nextjs.org/learn/basics/create-nextjs-app) were extremely well structured.
 
 The next task is to learn how **Product Research** is done.
 I believe this a great skill to have, and gives an edge on the competition.
-
-<!-- Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
-
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
-
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others. -->
