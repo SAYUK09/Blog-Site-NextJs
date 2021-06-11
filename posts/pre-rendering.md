@@ -18,10 +18,14 @@ And more or less failing now, will help me conquer in the near future.
 
 <!-- 8 June to 10 June (2 day deadline) -->
 
-`8 Jun 2021`
-
+`8 June 2021 : `
 Just got started with **NextJs**. Learnt the basics of NextJs while building this simple blog site.
 The [Vercel Tutorial Docs](https://nextjs.org/learn/basics/create-nextjs-app) were extremely well structured.
 
 The next task is to learn how **Product Research** is done.
 I believe this a great skill to have, and gives an edge on the competition.
+
+`11 June 2021 : `
+Few folks showcased their **Product Research Document** and it was truly mesemerizing to see all the presentation.
+I really learnt a lot and got a rough idea how PRD are done.
+Loved it!
