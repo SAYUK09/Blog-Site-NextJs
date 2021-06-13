@@ -3,11 +3,16 @@ import Image from "next/image";
 import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
+import ToggleButton from "./toggleButton";
+import { useTheme } from "../themeContext";
 
 const name = "Sayuri Kamble";
 export const siteTitle = "Sayuk Next Blogs";
 
 export default function Layout({ children, home }) {
+  const { darkTheme, setDarkTheme } = useTheme();
+  console.log(darkTheme);
+
   return (
     <div className={styles.container}>
       <Head>
@@ -25,7 +30,7 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
-
+      <ToggleButton />
       <header className={styles.header}>
         {home ? (
           <>
