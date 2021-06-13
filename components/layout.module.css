@@ -1,7 +1,16 @@
-.container {
+/* .container {
   max-width: 36rem;
   padding: 0 1rem;
   margin: 3rem auto 6rem;
+} */
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .header {
@@ -17,4 +26,19 @@
 .lightMode {
   background-color: whitesmoke;
   color: #333;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 20%;
+}
+
+.darkMode {
+  background-color: #161b22;
+  color: whitesmoke;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 20%;
 }
