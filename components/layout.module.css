@@ -11,6 +11,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  transform: all 0.3 ease-in-out;
 }
 
 .header {
@@ -31,9 +32,11 @@
   flex-direction: column;
   justify-content: center;
   padding: 0 20%;
+  transform: all 0.3 ease-in-out;
 }
 
 .darkMode {
+  transform: all 0.3 ease-in-out;
   background-color: #161b22;
   color: whitesmoke;
   width: 100%;
