@@ -29,3 +29,14 @@ I believe this a great skill to have, and gives an edge on the competition.
 Few folks showcased their **Product Research Document** and it was truly mesemerizing to see all the presentation.
 I really learnt a lot and got a rough idea how PRD are done.
 Loved it!
+
+`13 June 2021 :`
+Few more folks including me presentated their **Product Research Document**.
+It was again an amazing session. I learnt how to think when planning to build a product.
+
+> Also understood there's a lot of planning and efforts involved behind the scences in making of any product.
+
+`16 June 2021 : `
+Folks presentated their **Product Research Document** on Wzyr like web app.
+Wyzr is a subscription-based service where people can read books and authors can publish their books. The broad objective of the app is to reduce the barrier to entry for both writers as well as readers.
+Thinking on this project idea was a bit challenging for me, as I am not that much of reader.
