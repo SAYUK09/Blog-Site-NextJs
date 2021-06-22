@@ -40,3 +40,8 @@ It was again an amazing session. I learnt how to think when planning to build a 
 Folks presentated their **Product Research Document** on Wzyr like web app.
 Wyzr is a subscription-based service where people can read books and authors can publish their books. The broad objective of the app is to reduce the barrier to entry for both writers as well as readers.
 Thinking on this project idea was a bit challenging for me, as I am not that much of reader.
+
+`21 June 2021 : `
+2 Teams formed to work on 2 web apps respectively.
+Github access provided to team members.
+Unfortunately my college exams didn't allow me to contribute in any of these 2 projects.
