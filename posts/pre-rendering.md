@@ -45,3 +45,15 @@ Thinking on this project idea was a bit challenging for me, as I am not that muc
 2 Teams formed to work on 2 web apps respectively.
 Github access provided to team members.
 Unfortunately my college exams didn't allow me to contribute in any of these 2 projects.
+
+`24 June 2021 : `
+Meetings were held for walking us through the PRD and explaining the work flow.
+Amazing work by Tanvi on explaining us how work is done in professionally in industry.
+After seeing Tanvi presenting the PRD
+
+> My Respect for Product Manager just increased by 10X
+
+Understood the role of PM closely learnt different jargon and industry terms.
+Overall a great value packed session with a disclaimer to work hard.
+PS : I am not in any of the team due my exams, but I still decided to join the meeting and I don't regret that.
+We felt like we could call ourself like **Product Engineer at Neog** post working.
