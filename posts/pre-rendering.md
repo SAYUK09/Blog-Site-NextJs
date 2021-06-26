@@ -39,7 +39,7 @@ It was again an amazing session. I learnt how to think when planning to build a 
 `16 June 2021 : `
 Folks presentated their **Product Research Document** on Wzyr like web app.
 Wyzr is a subscription-based service where people can read books and authors can publish their books. The broad objective of the app is to reduce the barrier to entry for both writers as well as readers.
-Thinking on this project idea was a bit challenging for me, as I am not that much of reader.
+_Thinking on this project idea was a bit challenging for me, as I am not that much of reader._
 
 `21 June 2021 : `
 2 Teams formed to work on 2 web apps respectively.
@@ -53,7 +53,17 @@ After seeing Tanvi presenting the PRD
 
 > My Respect for Product Manager just increased by 10X
 
-Understood the role of PM closely learnt different jargon and industry terms.
+Understood the role of PM closely, learnt different jargon and industry terms.
 Overall a great value packed session with a disclaimer to work hard.
 PS : I am not in any of the team due my exams, but I still decided to join the meeting and I don't regret that.
 We felt like we could call ourself like **Product Engineer at Neog** post working.
+
+`26 June 2021 : `
+The agenda of today's meeting was to **Assign Tasks** to team members.
+Thanks Tanay for sheding light on Engineering Design Doc, and telling us it's importance in well established companies.
+The task for next 24 hours is to come up with Engineering Doc.
+This would be a fascinating task, I guess.
+The best part today was that, **I happened to be assigned a team**
+I am excited as well as scared right now.
+
+> Finally working as a team with Tanay Pratap & Tanvi and building a Product whic will have userbase of 3000+ users!
