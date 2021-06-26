@@ -66,4 +66,4 @@ This would be a fascinating task, I guess.
 The best part today was that, **I happened to be assigned a team**
 I am excited as well as scared right now.
 
-> Finally working as a team with Tanay Pratap & Tanvi and building a Product whic will have userbase of 3000+ users!
+> Finally working as a team with Tanay Pratap & Tanvi and building a Product which will have a userbase of 3000+ users!
