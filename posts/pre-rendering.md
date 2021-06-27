@@ -67,3 +67,8 @@ The best part today was that, **I happened to be assigned a team**
 I am excited as well as scared right now.
 
 > Finally working as a team with Tanay Pratap & Tanvi and building a Product which will have a userbase of 3000+ users!
+
+`27 June 2021 : `
+Today few folks presented their **Engineering Docs** , we had impromptu vital discussion over few points that were presented. And then we realised the significance of Engineering Docs.
+Omkar was extra-odinary today and raised the bar for other folks!
+We will be have another meeting tomorrow and will be continuing with the presentations.
