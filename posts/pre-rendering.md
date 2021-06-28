@@ -72,3 +72,11 @@ I am excited as well as scared right now.
 Today few folks presented their **Engineering Docs** , we had impromptu vital discussion over few points that were presented. And then we realised the significance of Engineering Docs.
 Omkar was extra-odinary today and raised the bar for other folks!
 We will be have another meeting tomorrow and will be continuing with the presentations.
+
+`28 June 2021 : `
+Continued with **Engineering Docs Presentation**.
+Also Tanay told us how a project is setup, creating templates for issues, PRs, configuring ESlint, prettier etc. Good amount of knowledge there.
+Had another meeting in the evening, where Tanay showed us how to up **Azure with NextJs and Typescript**.
+Lot of information there.
+_I am constantly amazed with the work of all teamates. I have so much to learn_. Getting my BE game strong with the help of _Omkar_ is on top of my list.
+Also spent few moments with _Sushil_ where he gave me some Golden UI Tips, (then I quickly pulled up PR and requested him to shower more knowledge). **I am sure, I'll get a lot better at UI at the end of this internship**
