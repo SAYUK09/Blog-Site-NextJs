@@ -80,3 +80,6 @@ Had another meeting in the evening, where Tanay showed us how to up **Azure with
 Lot of information there.
 _I am constantly amazed with the work of all teamates. I have so much to learn_. Getting my BE game strong with the help of _Omkar_ is on top of my list.
 Also spent few moments with _Sushil_ where he gave me some Golden UI Tips, (then I quickly pulled up PR and requested him to shower more knowledge). **I am sure, I'll get a lot better at UI at the end of this internship**
+
+`29 June 2021 : `
+Nothing much today, everyone was working on POC and small tasks assigned to them & we had a scrum call in the evening.
