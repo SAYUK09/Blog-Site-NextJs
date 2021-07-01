@@ -90,3 +90,17 @@ Well, this a special day
 > Tanay's Birthday! & tanay doesn't works on his special day.
 
 So, we had no meetings today. Tanay asked us to take a break, but I believe almost everyone was working individually.
+
+`1 July 2021 : `
+We had a **Daily Standup Call** in the afternoon and we decided to host the daily stand up calls early morning, that is around 8AM or 9AM (well, this is _early_ for most of the folks, including me.)
+We had another meeting with few folks to discuss about few changes in the `dashboard` design.
+That was a good discussion, talked over a few important stuff.
+
+> Sushil asked if would like to work on `404` page, & I didn't it second thought at all.
+
+So, I worked on the `404 page`. Played with `Chakra UI`.
+Faced difficulties in setting up `yarn` on my local machine.
+Was frustated for few moments there.
+Also I would like to thank Mehul for helping me.
+
+After doing all of this, I was ready to publish my branch until I discovered **I didn't have github access** to do so.
