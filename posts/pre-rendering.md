@@ -83,3 +83,10 @@ Also spent few moments with _Sushil_ where he gave me some Golden UI Tips, (then
 
 `29 June 2021 : `
 Nothing much today, everyone was working on POC and small tasks assigned to them & we had a scrum call in the evening.
+
+`30 June 2021 : `
+Well, this a special day
+
+> Tanay's Birthday! & tanay doesn't works on his special day.
+
+So, we had no meetings today. Tanay asked us to take a break, but I believe almost everyone was working individually.
