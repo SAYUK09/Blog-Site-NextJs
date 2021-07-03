@@ -110,3 +110,9 @@ As usual stand up call was conducted. Everyone was working at a good pace. And T
 **Team Admin** that is Me, Sushil and Soham decided to make _Admin Screens_ by tomorrow 2pm.
 We divided the tasks and started working on the **UI**.
 I was assigned the **review-portfolio** page, as Sushil worked on **Login/Signup** page & Soham took up the **Reviewer Dashboard** page.
+
+`3 July 2021 : `
+Continued working on assigned task.
+The first half of the day went in sending screenshots and asking for suggestions and fixing those.
+By evening I had the PR out and was waiting for some reviews. _(I am so eager, actually restless to get my PRs Merged, after all its my 1st Time.)_
+After a while **Prerana** Reviewed my code, & I worked on the PR changes.
