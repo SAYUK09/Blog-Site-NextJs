@@ -104,3 +104,9 @@ Was frustated for few moments there.
 Also I would like to thank Mehul for helping me.
 
 After doing all of this, I was ready to publish my branch until I discovered **I didn't have github access** to do so.
+
+`2 July 2021 : `
+As usual stand up call was conducted. Everyone was working at a good pace. And Tanvi interpreted that the app would be out in time.
+**Team Admin** that is Me, Sushil and Soham decided to make _Admin Screens_ by tomorrow 2pm.
+We divided the tasks and started working on the **UI**.
+I was assigned the **review-portfolio** page, as Sushil worked on **Login/Signup** page & Soham took up the **Reviewer Dashboard** page.
