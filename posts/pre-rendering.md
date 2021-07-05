@@ -116,3 +116,12 @@ Continued working on assigned task.
 The first half of the day went in sending screenshots and asking for suggestions and fixing those.
 By evening I had the PR out and was waiting for some reviews. _(I am so eager, actually restless to get my PRs Merged, after all its my 1st Time.)_
 After a while **Prerana** Reviewed my code, & I worked on the PR changes.
+
+`4 July 2021 : `
+Merged all my **PRs** .
+Learnt more about **Git, GitHub, etc**. Got a gist of how to make **OS Contributions**.
+Thanks to _Soham_ for helping me out.
+Also Today, I resolved my **1st Merge Conflict** _(Sounds a bit kiddish, but yeah I was happy that I was doing all of this)_
+Today's standup call went on a bit long, as we were also showcasing our work.
+We are planning to launch our MVP on this `Thursday` for a dry run.
+So going to have a hectic week, but so excited to for the outcome.
