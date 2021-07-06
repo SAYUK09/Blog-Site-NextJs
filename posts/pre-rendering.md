@@ -125,3 +125,10 @@ Also Today, I resolved my **1st Merge Conflict** _(Sounds a bit kiddish, but yea
 Today's standup call went on a bit long, as we were also showcasing our work.
 We are planning to launch our MVP on this `Thursday` for a dry run.
 So going to have a hectic week, but so excited to for the outcome.
+
+`5 July 2021 : `
+In today's stand up call, we had a demo flow of the entire app, more like as we were doing a bug bash. discussed few issues, and were told to complete the changes asap. Also everyone was given a feature/page to **bug bash**. We planned of completing all the changes and doing bug bash around 7-8pm in the evening, but
+
+> Is it even a plan if it goes as planned!
+
+We overestimated things, so tanvi as usual being kindest postponed the bug bash reporting to tomorrow.
