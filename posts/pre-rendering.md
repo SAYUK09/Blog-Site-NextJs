@@ -132,3 +132,8 @@ In today's stand up call, we had a demo flow of the entire app, more like as we 
 > Is it even a plan if it goes as planned!
 
 We overestimated things, so tanvi as usual being kindest postponed the bug bash reporting to tomorrow.
+
+`7 July : `
+We shifted had standup a bit late, that is at 3:30pm because everyone was a bit busy in polishing their features and taking care of few modifications which were discussed yesterday.
+We once more delayed our **Demo** to tomorrow, we'll most probably have a meeting in the second half of the day,to see our App Flow in 1 go.
+Hence The Launch is delayed by a day.
