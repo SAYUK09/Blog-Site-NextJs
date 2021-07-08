@@ -137,3 +137,12 @@ We overestimated things, so tanvi as usual being kindest postponed the bug bash 
 We shifted had standup a bit late, that is at 3:30pm because everyone was a bit busy in polishing their features and taking care of few modifications which were discussed yesterday.
 We once more delayed our **Demo** to tomorrow, we'll most probably have a meeting in the second half of the day,to see our App Flow in 1 go.
 Hence The Launch is delayed by a day.
+
+`8 July : `
+Didn't do much today, _was completing assignments 😑_
+But we had meeting in the evening, we had discussion on what timelines to set for ourselves, estimations around the app launch as we realised we overestimated things.
+I was assigned another feature to bug bash, so will do that. My learning from today :
+
+> Do not hesitate to ask help, you learn faster this way!
+
+Thanks Tanvi for this.
