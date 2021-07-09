@@ -146,3 +146,9 @@ I was assigned another feature to bug bash, so will do that. My learning from to
 > Do not hesitate to ask help, you learn faster this way!
 
 Thanks Tanvi for this.
+
+`9 July : `
+Today was an exhuasting day, was writing assignments all day long.
+Again learnt something new about `Git` and `GitHub`. After resolving some github related bugs, I started **Bug Bashing** the **Login/Signup** Pages.
+
+> Bug Bashing is good skill to have, which require good observation power and demands you to think for different perspective
