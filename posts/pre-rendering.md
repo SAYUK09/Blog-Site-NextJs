@@ -152,3 +152,7 @@ Today was an exhuasting day, was writing assignments all day long.
 Again learnt something new about `Git` and `GitHub`. After resolving some github related bugs, I started **Bug Bashing** the **Login/Signup** Pages.
 
 > Bug Bashing is good skill to have, which require good observation power and demands you to think for different perspective
+
+`10 July : `
+Today's day was a bit occpuied with **Reactify Talks**. We had a watch party as 2 of our Neog Students too were giving a talk.
+But we managed to get on quick call, where we discussed about our current status.Basically I've done **2 individual bug bashes** and now waiting for the `develop` branch to be updated with all the latest changes so that I and 2 more folks are able to do a complete `end-to-end` bug bash before the final bug bash.
