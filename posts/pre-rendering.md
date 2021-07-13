@@ -156,3 +156,12 @@ Again learnt something new about `Git` and `GitHub`. After resolving some github
 `10 July : `
 Today's day was a bit occpuied with **Reactify Talks**. We had a watch party as 2 of our Neog Students too were giving a talk.
 But we managed to get on quick call, where we discussed about our current status.Basically I've done **2 individual bug bashes** and now waiting for the `develop` branch to be updated with all the latest changes so that I and 2 more folks are able to do a complete `end-to-end` bug bash before the final bug bash.
+
+`13 July : `
+2 Meetings today, one in afternoon for discussing the the **Review System** Workflow and initiating **Review System** Work.
+And we had a meeting at around 7:30pm for an **End-to-End Bug Bash** which went on for almost 2.5 hours.
+
+> It was an absolute pleasure to see all the peices come togthere and work flawlessly as one Product.
+
+_Ahh! what a moment._ Tomorrow we are having a **e2e bug bash & code review**
+Let's see how it goes!
