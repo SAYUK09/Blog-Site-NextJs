@@ -165,3 +165,11 @@ And we had a meeting at around 7:30pm for an **End-to-End Bug Bash** which went 
 
 _Ahh! what a moment._ Tomorrow we are having a **e2e bug bash & code review**
 Let's see how it goes!
+
+`14 July : `
+So today early morning that is at **9AM** we had a call scheduled with Tanay for code reviews, where Tanay noticed that our **build** wasn't ready. Tanay after a few code reviews advised to get done with the **Build** part, Omkar and Udit were assigned that part as they were the ones who initially worked with the **Build and Backend Parts**. But Tanay asked me and _Prerana_ also to look into it, which I wanted to eargly do. After getting on a all with Omkar and Udit I once again realized that,
+
+> I still have a lot to learn!
+
+I really need to practice **Backend and Stuff** and get better at it.
+That's all for today. We didn't have stand up call today.
