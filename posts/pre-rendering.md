@@ -174,6 +174,10 @@ So today early morning that is at **9AM** we had a call scheduled with Tanay for
 I really need to practice **Backend and Stuff** and get better at it.
 That's all for today. We didn't have stand up call today.
 
+`15 July : `
+Today there wasn't much work as such.
+So joined meeting and observed Omkar and team debug the **Build**.
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
