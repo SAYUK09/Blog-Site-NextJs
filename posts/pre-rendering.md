@@ -178,6 +178,11 @@ That's all for today. We didn't have stand up call today.
 Today there wasn't much work as such.
 So joined meeting and observed Omkar and team debug the **Build**.
 
+`16 July : `
+So today Tanay got on a meeting and looked into the **build** issue.
+We all attended it and learned few tips and tricks.
+And the Tanay asked to take the weekend off and relax.
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
