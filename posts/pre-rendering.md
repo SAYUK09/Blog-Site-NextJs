@@ -183,6 +183,9 @@ So today Tanay got on a meeting and looked into the **build** issue.
 We all attended it and learned few tips and tricks.
 And the Tanay asked to take the weekend off and relax.
 
+`19 July :`
+We are still strugling with the **Build Part** and dedicated our day for solving the same issue.
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
