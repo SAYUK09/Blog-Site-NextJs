@@ -186,6 +186,19 @@ And the Tanay asked to take the weekend off and relax.
 `19 July :`
 We are still strugling with the **Build Part** and dedicated our day for solving the same issue.
 
+`20 July :`
+Today is the day!
+Tanvi asked to read the **issues regarding to the Reviewer System** and meet at 3:30pm.
+We had some brainstorming session and Tanvi asked me to take up the `reviewer dashboard` work, and this is what I always wanted(Having assigned a particular github issue)!
+But I was hesitating a bit to take up the work, as I had to travel to Wai, Panchgani for a engagement cermony this weekend.
+I wanted to take up the work, but was afraid of not being able to complete on time.
+It was a tough decision for me, but I dediced to take up the work as the mild deadline was next 2 days.
+And anyways I was supposed to travel after 2 days itself.
+
+> So Finally, today I was assigned my first work professionally.
+
+I had work on the **UI Screens of Review Portfolio Window and 404 page** before this, but this was the 1st time I was assigned a github issue.
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
