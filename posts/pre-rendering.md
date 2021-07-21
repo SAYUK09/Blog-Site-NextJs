@@ -199,6 +199,18 @@ And anyways I was supposed to travel after 2 days itself.
 
 I had work on the **UI Screens of Review Portfolio Window and 404 page** before this, but this was the 1st time I was assigned a github issue.
 
+`21 July :`
+Today woke up to Tanay's message where he hosted the our app and asked us test us before mapping it to the **Neog Camp Domain**.
+There was few issues such as:
+
+- The app was breaking on refresh.
+- The API calls were going to local host etc
+
+Yesterday, I wasn't able to work as the **UI Screen** Made by Soham wasn't merged to develop.
+Soham Merged his branch today, and their were some **UI Enchancements** to be made.
+So I worked on fixing the UI issues today.
+Then continued working on the `reviewer-dashboard`.
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
