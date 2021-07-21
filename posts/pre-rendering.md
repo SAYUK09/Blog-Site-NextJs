@@ -211,6 +211,11 @@ Soham Merged his branch today, and their were some **UI Enchancements** to be ma
 So I worked on fixing the UI issues today.
 Then continued working on the `reviewer-dashboard`.
 
+`22 July :`
+Worked on the logic for `reviewer-dashboard` today.
+Then met for discussing the **Interview System Design**
+Tanvi and Sushil wanted to attend and discuss, so that we learn fundamentals of UI/UX.
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
