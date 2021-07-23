@@ -216,6 +216,10 @@ Worked on the logic for `reviewer-dashboard` today.
 Then met for discussing the **Interview System Design**
 Tanvi and Sushil wanted to attend and discuss, so that we learn fundamentals of UI/UX.
 
+`23 July :`
+Okay So worked on the Logic and its almost ready but it's in **repl**.
+Waiting for the **Auth** part to complete, so that I can validate and access the `reviewerId`
+
 `27 July : `
 We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
 So as planned we had a meeting with Tanay today.
