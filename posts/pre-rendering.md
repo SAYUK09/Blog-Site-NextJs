@@ -173,3 +173,9 @@ So today early morning that is at **9AM** we had a call scheduled with Tanay for
 
 I really need to practice **Backend and Stuff** and get better at it.
 That's all for today. We didn't have stand up call today.
+
+`27 July : `
+We had a meeting where we had discussion over the **Interview System** and how would the Interviews function overall.
+So as planned we had a meeting with Tanay today.
+Where the **Reviewer Team** (Sushil, Prerana and I) presentated their engineering doc for the **Review System**.
+Started working on the changes after this meeting.
