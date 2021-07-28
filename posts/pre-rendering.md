@@ -225,3 +225,8 @@ We had a meeting where we had discussion over the **Interview System** and how w
 So as planned we had a meeting with Tanay today.
 Where the **Reviewer Team** (Sushil, Prerana and I) presentated their engineering doc for the **Review System**.
 Started working on the changes after this meeting.
+
+`28 July : `
+We had a regular stand up call this morning, where we discussed what we will be working on. Then everybody got working.
+**Reviewer Team** updated and made changes in Engg Doc. A lot of activity today. **Reviewer Team** discussed over the **Schema**.
+Rest of the folks worked on the **interview system**. Tanay himself would be looking into the build issue along with Omkar.
