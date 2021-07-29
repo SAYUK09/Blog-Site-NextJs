@@ -230,3 +230,7 @@ Started working on the changes after this meeting.
 We had a regular stand up call this morning, where we discussed what we will be working on. Then everybody got working.
 **Reviewer Team** updated and made changes in Engg Doc. A lot of activity today. **Reviewer Team** discussed over the **Schema**.
 Rest of the folks worked on the **interview system**. Tanay himself would be looking into the build issue along with Omkar.
+
+`29 July : `
+Almost done working on my changes. Also health is a little down today.
+Waiting for the **Schema** to be finalized to get done with the wiring of **Reviewer Dashboard** Logic.
