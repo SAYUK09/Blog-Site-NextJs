@@ -234,3 +234,7 @@ Rest of the folks worked on the **interview system**. Tanay himself would be loo
 `29 July : `
 Almost done working on my changes. Also health is a little down today.
 Waiting for the **Schema** to be finalized to get done with the wiring of **Reviewer Dashboard** Logic.
+
+`30 July : `
+We had a meeting with Tanay today at 4pm, and as usual learnt about some new topics like **RBAC Diagrams**.
+Before that we got on quick call and saw the **interview flow of student role**.
