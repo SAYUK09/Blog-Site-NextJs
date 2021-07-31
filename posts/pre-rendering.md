@@ -238,3 +238,6 @@ Waiting for the **Schema** to be finalized to get done with the wiring of **Revi
 `30 July : `
 We had a meeting with Tanay today at 4pm, and as usual learnt about some new topics like **RBAC Diagrams**.
 Before that we got on quick call and saw the **interview flow of student role**.
+
+`31 July : `
+Ah! nothing much today. Only Sushil asked folks to review the **Database Diagram** which he designed. Nothing more than that today.
