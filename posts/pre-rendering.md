@@ -241,3 +241,8 @@ Before that we got on quick call and saw the **interview flow of student role**.
 
 `31 July : `
 Ah! nothing much today. Only Sushil asked folks to review the **Database Diagram** which he designed. Nothing more than that today.
+
+`2 August : `
+We had multiple meetings where we brainstormed and try to come out with solution for **RBAC** Management.
+Seems like we found a solution. We will get it reviewed by **Tanay** Tomorrow.
+Had fun brainstorming with venn daigrams and all other stuff.
