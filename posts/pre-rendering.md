@@ -246,3 +246,8 @@ Ah! nothing much today. Only Sushil asked folks to review the **Database Diagram
 We had multiple meetings where we brainstormed and try to come out with solution for **RBAC** Management.
 Seems like we found a solution. We will get it reviewed by **Tanay** Tomorrow.
 Had fun brainstorming with venn daigrams and all other stuff.
+
+`3 August : `
+Had only 1 meeting today, with Tanay.
+So Tanay fixed the **build** and we seems like we are really close to **launch** our **Admission Portal** Phase One.
+Some small work around **API and DB** is yet to be done, and then we'll meet for end-to-end **Copy Fix**.
