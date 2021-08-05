@@ -258,3 +258,8 @@ After my exam, I did a quick **E2E** Testing.
 There were some isssues, and the app wasn't working as expected. Listed the issues done , had a standup and Omkar started fixing the issues.
 
 > Today, I started working on the **Mail-Sender-Portal** !
+
+`5 August : `
+Had discussion with some of the team members on bugs and fixing of it.
+Then had a standup.
+I was able to get done with the basic **sendgrid** setup, fighting with some bugs tho.
