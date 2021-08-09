@@ -263,3 +263,11 @@ There were some isssues, and the app wasn't working as expected. Listed the issu
 Had discussion with some of the team members on bugs and fixing of it.
 Then had a standup.
 I was able to get done with the basic **sendgrid** setup, fighting with some bugs tho.
+
+`9 August : `
+
+> Finally we've released our **Admission Portal** test-run today!
+
+For the past few days we were testing and fixing bugs internally. Add some finishing touch and testing on different browsers.
+We have 20-30 Neog Folks who will be doing the **Test Run**.
+Will get updates on the Test Run by tomorrow 2nd half of the day maybe.
